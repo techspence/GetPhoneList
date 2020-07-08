@@ -1,0 +1,40 @@
+###############################################################################,,,,
+#                      Active Directory User Export                           #,,,,
+###############################################################################,,,,
+# Created By:                                                                 #,,,,
+#    Get-PhoneList.ps1                                                        #,,,,
+# Fields:                                                                     #,,,,
+#    Department, Full Name, Title, Email, Telephone Extension                 #
+# Sorted by:                                                                  #,,,,
+#    Department                                                               #,,,,
+# Updated:                                                                    #,,,,
+#    07/08/2020                                                               #,,,,
+###############################################################################,,,,
+Executive,Phyllys Larman,President/CEO,plarman0@fakecompany.com,1006
+Finance,Vittorio Mettetal,Controller,vmettetal5@fakecompany.com,2003
+Finance,Abbie Tourle,Finance Manager,atourle6@fakecompany.com,2004
+Finance,Theresita Gluyas,Finance Representative,tgluyas7@fakecompany.com,2005
+Finance,Jeannette Wetherby,Finance Representative,jwetherby8@fakecompany.com,2006
+Human Resources,Antonin Blowes,VP of Human Resources,ablowes9@fakecompany.com,3005
+Marketing,Idette Govett,Director of Marketing,igovetta@fakecompany.com,4007
+Marketing,Leesa Crowcher,Marketing Representative,lcrowcherb@fakecompany.com,4008
+Marketing,Marmaduke Yorath,Marketing Representative,myorathc@fakecompany.com,4009
+Marketing,Walton Kasting,Marketing Representative,wkastingd@fakecompany.com,4010
+Sales,Ilyssa Lewin,Director of Sales,ilewine@fakecompany.com,5200
+Sales,Jerrilee Curzon,Sales Representative,jcurzonf@fakecompany.com,5201
+Sales,Mischa Lampart,Sales Representative,mlampartg@fakecompany.com,5202
+Sales,Aridatha Dreinan,Sales Representative,adreinanh@fakecompany.com,5203
+Sales,Bernarr Burkert,Sales Representative,bburkerti@fakecompany.com,5204
+Legal,Emmit Hovey,Director of Legal,ehoveyj@fakecompany.com,6603
+Legal,Yvor Fairbanks,Legal Representative,yfairbanksk@fakecompany.com,6004
+IT,Hatti Smorthwaite,Director/VP of Information Systems,hsmorthwaitel@fakecompany.com,7230
+IT,Codee Rustedge,Network Supervisor,crustedgem@fakecompany.com,7231
+IT,Melicent Docksey,Database Administrator,mdockseyn@fakecompany.com,7232
+IT,Ulises Whife,Help Desk Supervisor,uwhifeo@fakecompany.com,7233
+IT,Yasmeen Webben,Help Desk,ywebbenp@fakecompany.com,7234
+IT,Joycelin Grimmett,Help Desk,jgrimmettq@fakecompany.com,7235
+Customer Service,Wiatt Farragher,Director of Customer Service,wfarragherr@fakecompany.com,8678
+Customer Service,Jess Threadgould,Customer Service Manager,jthreadgoulds@fakecompany.com,8679
+Customer Service,Sayre Westall,Customer Service Representative,swestallt@fakecompany.com,8680
+Customer Service,Gwen Lambillion,Customer Service Representative,glambillionu@fakecompany.com,8681
+Customer Service,Erhart Barnicott,Customer Service Representative,ebarnicottv@fakecompany.com,8682
