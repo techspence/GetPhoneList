@@ -1,15 +1,16 @@
-###############################################################################,,,,
-#                      Active Directory User Export                           #,,,,
-###############################################################################,,,,
-# Created By:                                                                 #,,,,
-#    Get-PhoneList.ps1                                                        #,,,,
-# Fields:                                                                     #,,,,
-#    Department, Full Name, Title, Email, Telephone Extension                 #
-# Sorted by:                                                                  #,,,,
-#    Department                                                               #,,,,
-# Updated:                                                                    #,,,,
-#    07/08/2020                                                               #,,,,
-###############################################################################,,,,
+###############################################################################
+#                      Active Directory User Export                           #
+#                 SAMPLE FILE | SAMPLE FILE | SAMPLE FILE                     #
+###############################################################################
+#           Created By:                                                       #
+#               Get-PhoneList.ps1                                             #
+#           Fields:                                                           #
+#               Department, Full Name, Title, Email, Telephone Extension      #
+#           Sorted by:                                                        #
+#               Department                                                    #
+#           Updated:                                                          #
+#               07/08/2020                                                    #
+###############################################################################
 Executive,Phyllys Larman,President/CEO,plarman0@fakecompany.com,1006
 Finance,Vittorio Mettetal,Controller,vmettetal5@fakecompany.com,2003
 Finance,Abbie Tourle,Finance Manager,atourle6@fakecompany.com,2004
