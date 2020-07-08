@@ -7,7 +7,7 @@ Let say you have a company intranet page with everyones contact information. Let
 # Custom Sort
 This is one way to customize the order of how names show up. I wanted the President to be first on the last, then VP, Director, etc. This actually took some time for me to figure out. Eventually I got help from the nice people over at StackOverflow. Thanks to Ansgar Wiechers on SO for helping me find a suitable solution to my needs. https://stackoverflow.com/questions/58211308/how-to-sort-and-group-csv-file-containing-a-list-of-employees-by-department-and
 
-```
+```PowerShell
 $sortedEmployees = $searchQuery | 
                  Sort-Object {$departments.IndexOf($_.department)}, 
                  @{expression={$_.Title -match "(President)|(Controller)"}; descending=$true}, 
